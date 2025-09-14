@@ -1,4 +1,15 @@
-## Hi there 👋
+# Hi, I'm Luca Del Signore 👋
+
+I'm a Master's student in Artificial Intelligence and Robotics in Sapienza 🤖  
+
+## 🚀 Projects I Contributed To
+- [Human-Robot interaction project]([link-to-repo](https://github.com/LorenzoCiarpa/hri)): 
+- [DAgger4Robotics]([link-to-repo](https://github.com/cybernetic-m/DAgger4Robotics)): 
+
+## 📂 Personal Projects
+- [My Project 1](link)
+- [My Project 2](link)
+
 
 <!--
 **Puaison/Puaison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
