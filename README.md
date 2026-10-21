@@ -3,9 +3,6 @@
 I'm a Master's student in Artificial Intelligence and Robotics in Sapienza 🤖.
 Here you can find all the projects I worked on!
 
-## 🚀 External projects which I worked on:
-- [Human-Robot interaction project](https://github.com/LorenzoCiarpa/hri) 
-- [DAgger4Robotics](https://github.com/cybernetic-m/DAgger4Robotics)
 
 ## 🚀 Languages & Tools
 
